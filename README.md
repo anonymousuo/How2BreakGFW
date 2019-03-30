@@ -1,1 +1,1 @@
-详情请见[wiki](https://github.com/anonymousuo/How2BreakGFW/wiki)
+请移步[Wiki](https://github.com/anonymousuo/How2BreakGFW/wiki)
